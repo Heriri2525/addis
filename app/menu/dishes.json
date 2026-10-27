@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Doro Wat",
+    "price": 320,
+    "category": "Ethiopian",
+    "spicy": true,
+    "slug": "doro-wat",
+    "description": "Slow-cooked chicken stew in spicy berbere sauce with a boiled egg, served with injera.",
+    "special": true
+  },
+  {
+    "id": 2,
+    "name": "Kitfo",
+    "price": 380,
+    "category": "Ethiopian",
+    "spicy": true,
+    "slug": "kitfo",
+    "description": "Minced beef seasoned with mitmita and niter kibbeh, served warm with ayib and injera.",
+    "special": false
+  },
+  {
+    "id": 3,
+    "name": "Tibs",
+    "price": 290,
+    "category": "Ethiopian",
+    "spicy": false,
+    "slug": "tibs",
+    "description": "Pan-fried beef cubes saut\u00e9ed with onion, rosemary and green pepper.",
+    "special": false
+  },
+  {
+    "id": 4,
+    "name": "Shiro",
+    "price": 180,
+    "category": "Vegetarian",
+    "spicy": false,
+    "slug": "shiro",
+    "description": "Smooth chickpea stew simmered with garlic and onion. A fasting-day favourite.",
+    "special": true
+  },
+  {
+    "id": 5,
+    "name": "Misir Wat",
+    "price": 170,
+    "category": "Vegetarian",
+    "spicy": true,
+    "slug": "misir-wat",
+    "description": "Red lentils simmered in berbere. Rich, spicy and filling.",
+    "special": false
+  },
+  {
+    "id": 6,
+    "name": "Gomen",
+    "price": 150,
+    "category": "Vegetarian",
+    "spicy": false,
+    "slug": "gomen",
+    "description": "Collard greens gently cooked with garlic, ginger and onion.",
+    "special": false
+  },
+  {
+    "id": 7,
+    "name": "Firfir",
+    "price": 140,
+    "category": "Breakfast",
+    "spicy": true,
+    "slug": "firfir",
+    "description": "Shredded injera tossed in spicy berbere sauce. A classic breakfast.",
+    "special": true
+  },
+  {
+    "id": 8,
+    "name": "Ful",
+    "price": 120,
+    "category": "Breakfast",
+    "spicy": false,
+    "slug": "ful",
+    "description": "Mashed fava beans with olive oil, onion, tomato and fresh bread.",
+    "special": false
+  },
+  {
+    "id": 9,
+    "name": "Chechebsa",
+    "price": 130,
+    "category": "Breakfast",
+    "spicy": true,
+    "slug": "chechebsa",
+    "description": "Pan-fried flatbread pieces mixed with berbere and spiced butter.",
+    "special": false
+  },
+  {
+    "id": 10,
+    "name": "Burger",
+    "price": 250,
+    "category": "Fast Food",
+    "spicy": false,
+    "slug": "burger",
+    "description": "Juicy beef patty with lettuce, tomato and cheese in a toasted bun.",
+    "special": false
+  },
+  {
+    "id": 11,
+    "name": "Chicken Sandwich",
+    "price": 230,
+    "category": "Fast Food",
+    "spicy": false,
+    "slug": "chicken-sandwich",
+    "description": "Crispy chicken fillet with garlic mayo and pickles.",
+    "special": false
+  },
+  {
+    "id": 12,
+    "name": "Fries",
+    "price": 90,
+    "category": "Fast Food",
+    "spicy": false,
+    "slug": "fries",
+    "description": "Golden fries, lightly salted.",
+    "special": false
+  }
+]
